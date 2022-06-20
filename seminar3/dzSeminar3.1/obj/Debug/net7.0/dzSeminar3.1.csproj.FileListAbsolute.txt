@@ -1,0 +1,15 @@
+D:\Git\domz\dzSeminar3.1\obj\Debug\net7.0\dzSeminar3.1.csproj.AssemblyReference.cache
+D:\Git\domz\dzSeminar3.1\obj\Debug\net7.0\dzSeminar3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\domz\dzSeminar3.1\obj\Debug\net7.0\dzSeminar3.1.AssemblyInfoInputs.cache
+D:\Git\domz\dzSeminar3.1\obj\Debug\net7.0\dzSeminar3.1.AssemblyInfo.cs
+D:\Git\domz\dzSeminar3.1\obj\Debug\net7.0\dzSeminar3.1.csproj.CoreCompileInputs.cache
+D:\Git\domz\dzSeminar3.1\bin\Debug\net7.0\dzSeminar3.1.exe
+D:\Git\domz\dzSeminar3.1\bin\Debug\net7.0\dzSeminar3.1.deps.json
+D:\Git\domz\dzSeminar3.1\bin\Debug\net7.0\dzSeminar3.1.runtimeconfig.json
+D:\Git\domz\dzSeminar3.1\bin\Debug\net7.0\dzSeminar3.1.dll
+D:\Git\domz\dzSeminar3.1\bin\Debug\net7.0\dzSeminar3.1.pdb
+D:\Git\domz\dzSeminar3.1\obj\Debug\net7.0\dzSeminar3.1.dll
+D:\Git\domz\dzSeminar3.1\obj\Debug\net7.0\refint\dzSeminar3.1.dll
+D:\Git\domz\dzSeminar3.1\obj\Debug\net7.0\dzSeminar3.1.pdb
+D:\Git\domz\dzSeminar3.1\obj\Debug\net7.0\dzSeminar3.1.genruntimeconfig.cache
+D:\Git\domz\dzSeminar3.1\obj\Debug\net7.0\ref\dzSeminar3.1.dll
